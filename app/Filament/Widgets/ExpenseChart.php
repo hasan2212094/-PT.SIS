@@ -2,8 +2,8 @@
 
 namespace App\Filament\Widgets;
 
-use App\Models\Category;
 use Illuminate\Support\Carbon;
+use App\Models\Category;
 use Flowframe\Trend\Filters\LastYearFilter;
 use Flowframe\Trend\Trend;
 use Flowframe\Trend\TrendValue;
