@@ -30,6 +30,11 @@ class ExpenseChart extends ChartWidget
                     'rgba(242, 44, 9, 0.92)',
                     'rgba(241, 192, 15, 0.93)',
                     'rgba(62, 70, 217, 0.99)',
+                    'rgba(9, 242, 48, 0.92)',
+                    'rgba(15, 233, 241, 0.93)',
+                    'rgba(217, 62, 70, 0.99)',
+                    'rgba(242, 141, 9, 0.92)',
+                    ''
                 ],
                 'borderColor' => '#9BD0F5',
                 'barPercentage'=> '0.5',
